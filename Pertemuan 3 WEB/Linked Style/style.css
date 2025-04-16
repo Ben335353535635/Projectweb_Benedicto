@@ -1,0 +1,14 @@
+body {
+    background: #000000;
+}
+
+h1{
+    font size: 18pt;
+    color: #F8F8FF;
+}
+
+p{
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    text-decoration: underline;
+}
